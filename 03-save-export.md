@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: .
-title: Working with Open Refine
+title: Saving and Exporting Projects and Files in OpenRefine
 minutes: 
 ---
 
