@@ -66,6 +66,10 @@ Typically, you create a facet on a particular column. The facet summarizes the c
 > Using faceting, find out how many years are represented in the census
 > Which years have the most and least observations?
 
+> ### Challenge
+>
+> Using faceting, find out how many species are identified in the survey. Which species has the highest count in observations?
+
 ## Cluster
 
 One of the most magical bits of Refine, the moment you realize what you've been missing. Refine has several clustering algorithms built in. Experiment with them, and learn more about these algorithms and how they work. 
